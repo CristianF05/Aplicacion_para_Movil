@@ -13,3 +13,4 @@ C:\Users\Alumno\Desktop\Mi primier app M\calculadora_M\calculadora_M\calculadora
 C:\Users\Alumno\Desktop\Mi primier app M\calculadora_M\calculadora_M\calculadora_M\obj\Debug\netstandard2.0\calculadora_M.dll
 C:\Users\Alumno\Desktop\Mi primier app M\calculadora_M\calculadora_M\calculadora_M\obj\Debug\netstandard2.0\refint\calculadora_M.dll
 C:\Users\Alumno\Desktop\Mi primier app M\calculadora_M\calculadora_M\calculadora_M\obj\Debug\netstandard2.0\calculadora_M.pdb
+C:\Users\Alumno\Desktop\Mi primier app M\calculadora_M\calculadora_M\calculadora_M\obj\Debug\netstandard2.0\calculadora_M.sourcelink.json
