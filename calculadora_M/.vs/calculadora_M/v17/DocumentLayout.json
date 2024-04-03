@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Alumno\\Desktop\\Mi primier app M\\calculadora_M\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4514488F-0D19-42EB-9315-A750235AE6A2}|calculadora_M\\calculadora_M\\calculadora_M.csproj|c:\\users\\alumno\\desktop\\mi primier app m\\calculadora_m\\calculadora_m\\calculadora_m\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
-      "RelativeMoniker": "D:0:0:{4514488F-0D19-42EB-9315-A750235AE6A2}|calculadora_M\\calculadora_M\\calculadora_M.csproj|solutionrelative:calculadora_m\\calculadora_m\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4514488F-0D19-42EB-9315-A750235AE6A2}|calculadora_M\\calculadora_M\\calculadora_M.csproj|C:\\Users\\Alumno\\Desktop\\Mi primier app M\\calculadora_M\\calculadora_m\\calculadora_m\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4514488F-0D19-42EB-9315-A750235AE6A2}|calculadora_M\\calculadora_M\\calculadora_M.csproj|solutionrelative:calculadora_m\\calculadora_m\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4514488F-0D19-42EB-9315-A750235AE6A2}|calculadora_M\\calculadora_M\\calculadora_M.csproj|c:\\users\\alumno\\desktop\\mi primier app m\\calculadora_m\\calculadora_m\\calculadora_m\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{4514488F-0D19-42EB-9315-A750235AE6A2}|calculadora_M\\calculadora_M\\calculadora_M.csproj|solutionrelative:calculadora_m\\calculadora_m\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,26 +30,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Alumno\\Desktop\\Mi primier app M\\calculadora_M\\calculadora_M\\calculadora_M\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "calculadora_M\\calculadora_M\\MainPage.xaml.cs",
               "ToolTip": "C:\\Users\\Alumno\\Desktop\\Mi primier app M\\calculadora_M\\calculadora_M\\calculadora_M\\MainPage.xaml.cs",
               "RelativeToolTip": "calculadora_M\\calculadora_M\\MainPage.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE4AAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAE4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-03T18:04:47.42Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainPage.xaml",
               "DocumentMoniker": "C:\\Users\\Alumno\\Desktop\\Mi primier app M\\calculadora_M\\calculadora_M\\calculadora_M\\MainPage.xaml",
               "RelativeDocumentMoniker": "calculadora_M\\calculadora_M\\MainPage.xaml",
               "ToolTip": "C:\\Users\\Alumno\\Desktop\\Mi primier app M\\calculadora_M\\calculadora_M\\calculadora_M\\MainPage.xaml",
               "RelativeToolTip": "calculadora_M\\calculadora_M\\MainPage.xaml",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAwwDgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-04-03T18:02:49.241Z",
               "EditorCaption": ""
