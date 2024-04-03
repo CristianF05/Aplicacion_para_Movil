@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="calculadora_M.MainPage">
+
+    <ContentPage.Content>
+        <StackLayout VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand">
+            <Label x:Name="resultLabel" Text="0" HorizontalOptions="End" FontSize="Large"/>
+            <Grid Margin="10">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+                <Button Text="7" Clicked="NumberButton_Clicked" Grid.Row="0" Grid.Column="0"/>
+                <Button Text="8" Clicked="NumberButton_Clicked" Grid.Row="0" Grid.Column="1"/>
+                <Button Text="9" Clicked="NumberButton_Clicked" Grid.Row="0" Grid.Column="2"/>
+                <Button Text="+" Clicked="OperatorButton_Clicked" Grid.Row="0" Grid.Column="3"/>
+                <!-- Repeat Buttons for other numbers and operators -->
+                <Button Text="4" Clicked="NumberButton_Clicked" Grid.Row="1" Grid.Column="0"/>
+                <Button Text="5" Clicked="NumberButton_Clicked" Grid.Row="1" Grid.Column="1"/>
+                <Button Text="6" Clicked="NumberButton_Clicked" Grid.Row="1" Grid.Column="2"/>
+                <Button Text="-" Clicked="OperatorButton_Clicked" Grid.Row="1" Grid.Column="3"/>
+                <!-- Repeat Buttons for other numbers and operators -->
+                <Button Text="1" Clicked="NumberButton_Clicked" Grid.Row="2" Grid.Column="0"/>
+                <Button Text="2" Clicked="NumberButton_Clicked" Grid.Row="2" Grid.Column="1"/>
+                <Button Text="3" Clicked="NumberButton_Clicked" Grid.Row="2" Grid.Column="2"/>
+                <Button Text="*" Clicked="OperatorButton_Clicked" Grid.Row="2" Grid.Column="3"/>
+                <!-- Repeat Buttons for other numbers and operators -->
+                <Button Text="0" Clicked="NumberButton_Clicked" Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="2"/>
+                <Button Text="." Clicked="NumberButton_Clicked" Grid.Row="3" Grid.Column="2"/>
+                <Button Text="/" Clicked="OperatorButton_Clicked" Grid.Row="3" Grid.Column="3"/>
+                <Button Text="C" Clicked="ClearButton_Clicked" Grid.Row="4" Grid.Column="0"/>
+                <Button Text="=" Clicked="EqualsButton_Clicked" Grid.Row="4" Grid.Column="1" Grid.ColumnSpan="3"/>
+            </Grid>
+        </StackLayout>
+    </ContentPage.Content>
+
+</ContentPage>
